@@ -1,0 +1,14 @@
+C:\Xamarin\image\image\image\bin\Debug\netstandard2.0\image.deps.json
+C:\Xamarin\image\image\image\bin\Debug\netstandard2.0\image.dll
+C:\Xamarin\image\image\image\bin\Debug\netstandard2.0\ref\image.dll
+C:\Xamarin\image\image\image\bin\Debug\netstandard2.0\image.pdb
+C:\Xamarin\image\image\image\obj\Debug\netstandard2.0\image.csprojAssemblyReference.cache
+C:\Xamarin\image\image\image\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\image\image\image\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\image\image\image\obj\Debug\netstandard2.0\image.AssemblyInfoInputs.cache
+C:\Xamarin\image\image\image\obj\Debug\netstandard2.0\image.AssemblyInfo.cs
+C:\Xamarin\image\image\image\obj\Debug\netstandard2.0\image.csproj.CoreCompileInputs.cache
+C:\Xamarin\image\image\image\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\image\image\image\obj\Debug\netstandard2.0\image.dll
+C:\Xamarin\image\image\image\obj\Debug\netstandard2.0\ref\image.dll
+C:\Xamarin\image\image\image\obj\Debug\netstandard2.0\image.pdb
